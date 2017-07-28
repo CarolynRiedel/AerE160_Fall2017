@@ -1,3 +1,5 @@
 # This is a test file to see if I do know what I'm doing
 
 print("I'm Carolyn")
+name=input("What is your name? \n")
+print("Hello, {}" .format(name))
